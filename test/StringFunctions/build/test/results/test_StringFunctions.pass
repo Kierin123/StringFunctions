@@ -1,0 +1,42 @@
+---
+:source:
+  :path: test
+  :file: test_StringFunctions.c
+:successes:
+- :test: test_StringFunctions_countCharacters
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_removeCharacters_1
+  :line: 31
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_removeCharacters_2
+  :line: 43
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_calculateLength
+  :line: 55
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_concatenateStrings
+  :line: 62
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_copyString
+  :line: 75
+  :message: ''
+  :unity_test_time: 0
+- :test: test_StringFunctions_findSubString
+  :line: 90
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0007490879979741294
